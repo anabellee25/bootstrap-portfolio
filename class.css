@@ -55,7 +55,7 @@ h1 {
 }
 
 #selfie {
-    height: 290px;
+    height: 300px;
     padding: 20px;
 }
 
@@ -128,11 +128,9 @@ button {
 #selfie {
     height: 250px;
     padding: 5px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
-
-}
 
 #portfolioBody {
     height:600px;
@@ -146,37 +144,39 @@ button {
 .container {
     position: absolute;
     left: 100px;
-    height: 500px;
+    height: 600px;
     width: 700px;
 
 }
-
+    
+#selfie {
+    clear: both;
+    height: 200px;
+    margin-top: 70px;
+    
+}
 #portfolioBody {
     height: 700px !important;
 }
 
-#text1 {
-    margin-top: 10px;
-   
-}
+
 }
 
 @media screen and (max-width:640px) {
 
-.container {
-width: 620px;
-height: 700px;
-left: 40px;
-}    
 
 #content {
     height:700px;
 }
 
 #portfolioBody {
-    height: 700px;
+    height: 600px;
 }
-footer {
-  top: auto;
-  position: absolute;
+
+
+#selfie {
+    height: 200px;
+    margin-top: 70px;
+}
+
 }
