@@ -73,9 +73,9 @@ footer {
     color: lightgray;
     text-align:center;
     font-size: 12px;
-    float: bottom;
-    position: absolute;
-    bottom: -60px;
+    position: fixed;
+    bottom: 0;
+    left:0;
     
 }
 
