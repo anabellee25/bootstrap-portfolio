@@ -48,6 +48,7 @@ h1 {
     width: 900px;
     height: 600px;
     margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 #content{
@@ -126,9 +127,9 @@ button {
 }
 
 #selfie {
-    height: 250px;
+    height: 230px;
     padding: 5px;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 
@@ -151,7 +152,7 @@ button {
     
 #selfie {
     clear: both;
-    height: 200px;
+    height: 220px;
     margin-top: 70px;
     
 }
@@ -175,7 +176,7 @@ button {
 
 
 #selfie {
-    height: 200px;
+    height: 210px;
     margin-top: 70px;
 }
 
